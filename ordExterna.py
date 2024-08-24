@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 23 16:43:52 2024
-
-@author: Saulo
-"""
 
 import heapq
 import random

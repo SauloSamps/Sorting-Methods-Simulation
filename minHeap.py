@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug  3 14:48:57 2024
-
-@author: Saulo
-"""
 
 class minHeap:
     def __init__(self, size):
